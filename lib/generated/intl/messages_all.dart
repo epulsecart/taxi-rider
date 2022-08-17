@@ -57,35 +57,35 @@ MessageLookupByLibrary? _findExact(String localeName) {
     case 'ar':
       return messages_ar.messages;
     case 'bn':
-      return messages_bn.messages;
+      return messages_ar.messages;
     case 'de':
-      return messages_de.messages;
+      return messages_ar.messages;
     case 'en':
-      return messages_en.messages;
+      return messages_ar.messages;
     case 'es':
-      return messages_es.messages;
+      return messages_ar.messages;
     case 'fa':
-      return messages_fa.messages;
+      return messages_ar.messages;
     case 'fr':
-      return messages_fr.messages;
+      return messages_ar.messages;
     case 'hi':
-      return messages_hi.messages;
+      return messages_ar.messages;
     case 'hy':
-      return messages_hy.messages;
+      return messages_ar.messages;
     case 'id':
-      return messages_id.messages;
+      return messages_ar.messages;
     case 'ja':
-      return messages_ja.messages;
+      return messages_ar.messages;
     case 'ko':
-      return messages_ko.messages;
+      return messages_ar.messages;
     case 'pt':
-      return messages_pt.messages;
+      return messages_ar.messages;
     case 'ru':
-      return messages_ru.messages;
+      return messages_ar.messages;
     case 'ur':
-      return messages_ur.messages;
+      return messages_ar.messages;
     case 'zh':
-      return messages_zh.messages;
+      return messages_ar.messages;
     default:
       return null;
   }
